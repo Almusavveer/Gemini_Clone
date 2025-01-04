@@ -41,7 +41,7 @@ const Main = () => {
               <div className="card">
                 <p>Brainstrom team bonding activities for our work retreat</p>
                 <img src={assets.message_icon} alt="" />
-              </div>
+              </div> 
               <div className="card">
                 <p>Imporve the readability of the following code</p>
                 <img src={assets.code_icon} alt="" />

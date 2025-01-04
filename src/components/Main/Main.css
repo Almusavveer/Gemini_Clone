@@ -194,3 +194,18 @@
     gap: 5px;
   }
 }
+
+@media (max-width: 380px) {
+ .main .greet{
+    margin: 0 15px;
+  }
+  .main-bottom{
+    height: 100px
+  }
+  .main .cards {
+    padding-bottom: 15px;
+  }
+  .main .card{
+    height: 100px;
+  }
+}
